@@ -4,6 +4,6 @@ public class Test {
 
 	  public static void main(String[] args) {
 		  
-		  System.out.println("jay shree ganeshay namah");
+		  System.out.println("Application has started");
 	  }
 }
